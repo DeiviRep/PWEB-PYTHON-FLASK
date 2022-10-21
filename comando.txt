@@ -1,0 +1,9 @@
+-- pip --
+--instalando pip 
+pip3 install flask flask-mysqldb
+
+--
+
+activate
+
+flask run
